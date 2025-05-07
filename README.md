@@ -1,4 +1,4 @@
-# PY Pascal's triangle
+# Python Pascal's triangle
 
 Defines a function pascal_triangle that generates Pascal's Triangle with a specified number of rows, n. 
 
